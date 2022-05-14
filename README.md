@@ -1,6 +1,6 @@
 # PlatziPunks Nft Marketplace
 
-**Link to project:** https://627d973f05b5871486c75ee8--zippy-arithmetic-b653b8.netlify.app/
+**Link to project:** https://fancy-llama-17fe9b.netlify.app/
 
 ![platzipunks](https://user-images.githubusercontent.com/96799477/168430401-c0fc7115-17ee-4f1d-ab3c-c05e2395d625.png)
 
