@@ -6,6 +6,8 @@
 
 ![platzipunks2](https://user-images.githubusercontent.com/96799477/168430419-9204803f-5ddf-4a7f-afd8-a31360a6bc57.png)
 
+![platzipunks3](https://user-images.githubusercontent.com/96799477/168448599-028130c3-8fb2-43a7-94e0-94ce4be7a6e9.png)
+
 ## How It's Made:
 
 **Tech used:** JavaScript, React, Solidity, Chakra-ui, Web3, Web3-react, Hardhat 
