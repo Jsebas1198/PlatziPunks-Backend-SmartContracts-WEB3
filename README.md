@@ -12,7 +12,7 @@
 
 **Tech used:** JavaScript, React, Solidity, Chakra-ui, Web3, Web3-react, Hardhat 
 
-This project is an Nft marketplace where any wallet that is connected to the rinkeby network can buy PlatziPunks, the platzipunks nfts are made by a random online generator of avatars (https://getavataaars.com/) and uses an deterministic pseudo random function to generate their DNA because solidity is a deterministic language, that means that if this project is deployed in production it would be neccesary to use an oracle and generate a random function for the DNA, the URL to generate the avatars must be encoded in base64 because it will be built withing blockchain, this means that the metadata will be inside blockchain and it can't be modified. For the UI this porject uses chakra-ui, We3js and web3-react to interact with the smart contract. 
+This project is an Nft marketplace where any wallet that is connected to the rinkeby network can buy PlatziPunks, the platzipunks nfts are made by a random online generator of avatars (https://getavataaars.com/) and uses an deterministic pseudo random function to generate their DNA because solidity is a deterministic language, that means that if this project is deployed in production it would be neccesary to use an oracle and generate a random function for the DNA, the URL to generate the avatars must be encoded in base64 because it will be built within blockchain, this means that the metadata will be inside blockchain and it can't be modified. For the UI this porject uses chakra-ui, We3js and web3-react to interact with the smart contract. 
 
 ## Optimizations
 
